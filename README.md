@@ -2,7 +2,7 @@
 
 In this repository, the visitation of several stores in Germany made by users, given GPS signals of users, and outline of the stores (referred to as polygons) is analyzed. Besides, the demo-behavioural relationship between user affinities and specific stores they have visited is explored. 
 
-All the necessary installations are included in the "code.ipynb" Jupyter notebook file. Once downloaded the datasets, the code could be run on Anaconda or Colab. 
+All the necessary installations are included in the "code.ipynb" Jupyter notebook file. Once downloaded the datasets, the code could be run on Anaconda or Colab. The final dataset (df) is saved as results.csv.
 
 ## Unique Store Visits
 
