@@ -9,7 +9,7 @@ All the necessary installations are included in the "code.ipynb" Jupyter noteboo
 The visualizations of unique store visits over time, by store name and store id are showed below. 
 
 **Here are some remarks from the graphs:**
-- The trend shows that the most visits happen on Sundays, that could be understandable considering that most stores are actually closed on Sundays.
+- The trend shows that the least visits happen on Sundays, that could be understandable considering that most stores are actually closed on Sundays.
 - The most visited store chain is Kaufland, followed by Rewe.
 - The least visited store chain is Subway.
 - The most visited store is place 214, followed by place 217 - both being Kaufland stores.
